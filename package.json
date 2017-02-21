@@ -1,0 +1,19 @@
+{
+  "name": "gontu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "iconv-lite": "^0.4.13",
+    "node-telegram-bot-api": "^0.24.0",
+    "request": "^2.75.0",
+    "request-promise": "^4.1.1",
+    "bluebird": "latest"
+  },
+  "scripts": {
+    "start": "node --harmony-async-await index.js"
+  }
+}
